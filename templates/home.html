@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <title>IPL</title>
+    <style>
+
+@media only screen and (max-device-width: 1366px) {
+.parallax {
+  /* The image used */
+  background-image: url();
+
+  /* Set a specific height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+       .foreground {
+  backdrop-filter: blur(5px);
+}
+  
+}
+</style>
+
+
+<body background="https://resources.platform.iplt20.com/photo-resources/2020/08/20/8ab72598-0ed5-411d-9b91-7fc371ae2812/IPL_v1.jpg?width=1200&height=700" class='foreground'>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+      <a class="navbar-brand" href="/">IPL Winner Prediction</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </nav>
+    
+
+
+
+<div class='parallax'>
+<font color="Pink">
+<form method="POST", action="{{url_for('home')}}">
+
+<br>
+<h2>Season</h2>
+    <h3><select id="Season" name="year">
+    <option value='2020'>2020</option>
+</select>
+</br>
+
+<h2>Team 1</h2>
+<h3><select id="Team 1" name="tm1">
+    <option value='2'>Chennai Super Kings</option>
+    <option value='8'>Delhi Capitals</option>
+    <option value='5'>Kings XI Punjab</option>
+    <option value='3'>Kolkata Knight Riders</option>
+    <option value='1'>Mumbai Indians</option>
+    <option value='6'>Rajasthan Royals</option>
+    <option value='4'>Royal Challengers Bangalore</option>
+    <option value='7'>Sunrisers Hyderabad</option>
+</select>
+
+  <h2>Team 2</h2>
+  <h3>
+      <select id="Team 2" name="tm2">
+    <option value='2'>Chennai Super Kings</option>
+    <option value='8'>Delhi Capitals</option>
+    <option value='5'>Kings XI Punjab</option>
+    <option value='3'>Kolkata Knight Riders</option>
+    <option value='1'>Mumbai Indians</option>
+    <option value='6'>Rajasthan Royals</option>
+    <option value='4'>Royal Challengers Bangalore</option>
+    <option value='7'>Sunrisers Hyderabad</option>
+  </select>
+
+      <h2>City</h2>
+    <h3><select id="City" name="city">
+        <option value='1'>Abu Dhabi</option>
+        <option value='14'>Dubai</option>
+        <option value='34'>Sharjah</option>
+    </select>
+
+<h2>Toss Decision</h2>
+  <h3>
+  <select id="Toss" name="t1">
+    <option value=1>Field</option>
+    <option value=0>Bat</option>
+  </select></h3>
+
+  <h2>Toss Winner</h2>
+  <h3>
+  <select id="Toss Win" name="t2">
+    <option value='2'>Chennai Super Kings</option>
+    <option value='8'>Delhi Capitals</option>
+    <option value='5'>Kings XI Punjab</option>
+    <option value='3'>Kolkata Knight Riders</option>
+    <option value='1'>Mumbai Indians</option>
+    <option value='6'>Rajasthan Royals</option>
+    <option value='4'>Royal Challengers Bangalore</option>
+    <option value='7'>Sunrisers Hyderabad</option>
+  </select></h3>
+
+  <h2>Venue</h2>
+  <h3>
+  <select id="Venue" name="Venue">
+            <option value='7'>Dubai International Cricket Stadium</option>
+            <option value='34'>Sharjah Cricket Stadium</option>
+            <option value='35'>Sheikh Zayed Stadium</option>
+  </select>
+  <br>
+
+  <input type="submit" value="Submit"></h3>
+</br>
+</div>
+
+</form>
+Made By Abhinava
+
+
+</font>
+</body>
+</html>

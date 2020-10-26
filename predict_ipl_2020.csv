@@ -1,0 +1,57 @@
+season,city,date,team1,team2,toss_winner,toss_decision,venue
+2020,ABU DHABI,19-09-2020,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Sheikh Zayed Stadium
+2020,DUBAI ,20-09-2020,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Dubai International Cricket Stadium
+2020,DUBAI ,21-09-2020,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Dubai International Cricket Stadium
+2020,SHARJAH ,22-09-2020,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Sharjah Cricket Stadium
+2020,ABU DHABI,23-09-2020,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Sheikh Zayed Stadium
+2020,DUBAI ,24-09-2020,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Dubai International Cricket Stadium
+2020,DUBAI ,25-09-2020,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Dubai International Cricket Stadium
+2020,ABU DHABI,26-09-2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sheikh Zayed Stadium
+2020,SHARJAH ,27-09-2020,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Sharjah Cricket Stadium
+2020,DUBAI ,28-09-2020,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Dubai International Cricket Stadium
+2020,ABU DHABI,29-09-2020,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sheikh Zayed Stadium
+2020,DUBAI ,30-09-2020,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Dubai International Cricket Stadium
+2020,ABU DHABI,01-10-2020,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,field,Sheikh Zayed Stadium
+2020,DUBAI ,02-10-2020,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Dubai International Cricket Stadium
+2020,ABU DHABI,03-10-2020,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Sheikh Zayed Stadium
+2020,SHARJAH ,03-10-2020,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Sharjah Cricket Stadium
+2020,SHARJAH ,04-10-2020,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sharjah Cricket Stadium
+2020,DUBAI ,04-10-2020,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Dubai International Cricket Stadium
+2020,DUBAI ,05-10-2020,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Dubai International Cricket Stadium
+2020,ABU DHABI,06-10-2020,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Sheikh Zayed Stadium
+2020,ABU DHABI,07-10-2020,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Sheikh Zayed Stadium
+2020,DUBAI ,08-10-2020,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,Dubai International Cricket Stadium
+2020,SHARJAH ,09-10-2020,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Sharjah Cricket Stadium
+2020,ABU DHABI,10-10-2020,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,field,Sheikh Zayed Stadium
+2020,DUBAI ,10-10-2020,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Dubai International Cricket Stadium
+2020,DUBAI ,11-10-2020,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Dubai International Cricket Stadium
+2020,ABU DHABI,11-10-2020,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Sheikh Zayed Stadium
+2020,SHARJAH ,12-10-2020,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Sharjah Cricket Stadium
+2020,DUBAI ,13-10-2020,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Dubai International Cricket Stadium
+2020,DUBAI ,14-10-2020,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Dubai International Cricket Stadium
+2020,SHARJAH ,15-10-2020,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Sharjah Cricket Stadium
+2020,ABU DHABI,16-10-2020,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Sheikh Zayed Stadium
+2020,DUBAI ,17-10-2020,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Dubai International Cricket Stadium
+2020,SHARJAH ,17-10-2020,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Sharjah Cricket Stadium
+2020,ABU DHABI,18-10-2020,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sheikh Zayed Stadium
+2020,DUBAI ,18-10-2020,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Dubai International Cricket Stadium
+2020,ABU DHABI,19-10-2020,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Sheikh Zayed Stadium
+2020,DUBAI ,20-10-2020,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,field,Dubai International Cricket Stadium
+2020,ABU DHABI,21-10-2020,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Sheikh Zayed Stadium
+2020,DUBAI ,22-10-2020,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Dubai International Cricket Stadium
+2020,SHARJAH ,23-10-2020,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Sharjah Cricket Stadium
+2020,ABU DHABI,24-10-2020,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Sheikh Zayed Stadium
+2020,DUBAI ,24-10-2020,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Dubai International Cricket Stadium
+2020,DUBAI ,25-10-2020,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Dubai International Cricket Stadium
+2020,ABU DHABI,25-10-2020,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Sheikh Zayed Stadium
+2020,SHARJAH ,26-10-2020,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Sharjah Cricket Stadium
+2020,DUBAI ,27-10-2020,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Dubai International Cricket Stadium
+2020,ABU DHABI,28-10-2020,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Sheikh Zayed Stadium
+2020,DUBAI ,29-10-2020,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Dubai International Cricket Stadium
+2020,ABU DHABI,30-10-2020,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Sheikh Zayed Stadium
+2020,DUBAI ,31-10-2020,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Dubai International Cricket Stadium
+2020,SHARJAH ,31-10-2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sharjah Cricket Stadium
+2020,ABU DHABI,01-11-2020,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Sheikh Zayed Stadium
+2020,DUBAI ,01-11-2020,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Dubai International Cricket Stadium
+2020,ABU DHABI,02-11-2020,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Sheikh Zayed Stadium
+2020,SHARJAH ,03-11-2020,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sharjah Cricket Stadium
